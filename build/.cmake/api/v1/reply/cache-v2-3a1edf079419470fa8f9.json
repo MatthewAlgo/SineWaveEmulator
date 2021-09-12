@@ -27,7 +27,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/MatthewAlgo/Desktop/Python/SineWaveEmulator/build"
+			"value" : "c:/Users/MatthewAlgo/Desktop/ProjectsRecreation/SineWaveEmulator/build"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -479,7 +479,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/MatthewAlgo/Desktop/Python/SineWaveEmulator"
+			"value" : "C:/Users/MatthewAlgo/Desktop/ProjectsRecreation/SineWaveEmulator"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1115,7 +1115,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/MatthewAlgo/Desktop/Python/SineWaveEmulator/build"
+			"value" : "C:/Users/MatthewAlgo/Desktop/ProjectsRecreation/SineWaveEmulator/build"
 		},
 		{
 			"name" : "SineWaveEmulator_SOURCE_DIR",
@@ -1127,7 +1127,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/MatthewAlgo/Desktop/Python/SineWaveEmulator"
+			"value" : "C:/Users/MatthewAlgo/Desktop/ProjectsRecreation/SineWaveEmulator"
 		},
 		{
 			"name" : "VCPKG_APPLOCAL_DEPS",
