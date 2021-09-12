@@ -1,0 +1,10 @@
+^C:\USERS\MATTHEWALGO\DESKTOP\PYTHON\SINEWAVEEMULATOR\BUILD\CMAKEFILES\B8E9FB305C20A8148A52B0EE5D999314\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/Users/MatthewAlgo/Desktop/Python/SineWaveEmulator -BC:/Users/MatthewAlgo/Desktop/Python/SineWaveEmulator/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/MatthewAlgo/Desktop/Python/SineWaveEmulator/build/SineWaveEmulator.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
